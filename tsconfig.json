@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "rootDir": "./lib",
+    "baseUrl": "./",
+    "module": "commonjs",
+    "strict": true,
+    "noEmitHelpers": false,
+    "noImplicitAny": false,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strictPropertyInitialization": true,
+  },
+}
